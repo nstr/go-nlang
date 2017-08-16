@@ -3,7 +3,7 @@ Natural language processing for Go
 
 * [Distance](#distance)
 * [Phonetics](#phonetics)
-* [To Do](#todo)
+* [To Do](#to-do)
 
 
 ## Distance

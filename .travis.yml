@@ -1,0 +1,11 @@
+os:
+- linux
+- osx
+language: go
+go:
+- 1.x.x
+go_import_path: github.com/njnest/go-nlang
+script: go test -short -race ./...
+notifications:
+  email:
+  - go-nlang-njrnesterov@gmail.com
